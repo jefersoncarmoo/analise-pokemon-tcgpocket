@@ -11,7 +11,7 @@ Pokémon TCG Pocket é a versão mobile do tradicional jogo de cartas Pokémon T
 Google Planilhas
 
 ## 🖼️ Visual do Dashboard
-![Gif que exemplifica o funcionando do Dashboard Redes Sociais](https://i.imgur.com/puAdnBY.png)
+![Gif que exemplifica o funcionando do Dashboard Pokemon TCG Pocket](https://i.imgur.com/puAdnBY.png)
 
 ## 📁 Estrutura da Base de Dados
 Arquivo em csv, disponível em [Kaggle - Pokemon TCG Pocket Dataset.](https://www.kaggle.com/datasets/joaocoelho03/pocket-tcg-dataset) 
